@@ -1,15 +1,15 @@
 # Xgag
 
-Express.js starter, collection for most usage library.
+A starter project using Express and a collection of most-used libraries.
 
-## pre-install
+## Requirement
 
- * node.js@0.10.22
- * npm
+ * [node.js@0.10.22](http://nodejs.org)
+ * npm (Usually bundled with node.js)
  * [mongojs](https://github.com/mafintosh/mongojs)
- * [express@4.11.1rc](http://github.com/strongloop/express/)
+ * [express@4.11.1rc](http://expressjs.com)
 
-## loca env setup
+## Set up local environment
 
 `sudo vim /etc/hosts`
 
@@ -32,24 +32,26 @@ server {
 ```
 
 
-## how to start
+## How to start
 
 ```
 npm start
 open http://localhost:7000
 ```
 
-##include
+## Misc
+
+### Includes
 
  * jade
  * bootstrap
 
-#TODO  
+### Todo  
 
  * bootstrap build in
  * collect sample page for jade
 
-#schema
+### Schema
 
 ```
 user:{
