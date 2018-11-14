@@ -35,7 +35,7 @@
     "moment": "^2.17.1",
     "mongojs": "^2.4.0",
     "mongoose": "^4.8.1",
-    "morgan": "~1.5.1",
+    "morgan": "~1.9.1",
     "nib": "^1.1.0",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
